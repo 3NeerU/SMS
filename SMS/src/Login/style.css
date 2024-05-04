@@ -1,0 +1,31 @@
+/* style.css */
+
+/*  for the title label */
+
+.label-title {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: black; /* text color to blue */
+}
+/* for the buttons */
+.button {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+      -fx-text-fill: black;
+
+}
+
+.label-lbl1 {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: black; 
+  
+}
+.label-lbl2 {
+    -fx-font-size: 20px;
+    -fx-text-fill: blue; 
+    -fx-font-style: italic;
+}
+
+
+
